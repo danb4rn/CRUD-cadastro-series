@@ -1,0 +1,16 @@
+C:\git\DIO\CRUD.Series\obj\Debug\net5.0\CRUD.Series.csproj.AssemblyReference.cache
+C:\git\DIO\CRUD.Series\obj\Debug\net5.0\CRUD.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\DIO\CRUD.Series\obj\Debug\net5.0\CRUD.Series.AssemblyInfoInputs.cache
+C:\git\DIO\CRUD.Series\obj\Debug\net5.0\CRUD.Series.AssemblyInfo.cs
+C:\git\DIO\CRUD.Series\obj\Debug\net5.0\CRUD.Series.csproj.CoreCompileInputs.cache
+C:\git\DIO\CRUD.Series\bin\Debug\net5.0\CRUD.Series.exe
+C:\git\DIO\CRUD.Series\bin\Debug\net5.0\CRUD.Series.deps.json
+C:\git\DIO\CRUD.Series\bin\Debug\net5.0\CRUD.Series.runtimeconfig.json
+C:\git\DIO\CRUD.Series\bin\Debug\net5.0\CRUD.Series.runtimeconfig.dev.json
+C:\git\DIO\CRUD.Series\bin\Debug\net5.0\CRUD.Series.dll
+C:\git\DIO\CRUD.Series\bin\Debug\net5.0\ref\CRUD.Series.dll
+C:\git\DIO\CRUD.Series\bin\Debug\net5.0\CRUD.Series.pdb
+C:\git\DIO\CRUD.Series\obj\Debug\net5.0\CRUD.Series.dll
+C:\git\DIO\CRUD.Series\obj\Debug\net5.0\ref\CRUD.Series.dll
+C:\git\DIO\CRUD.Series\obj\Debug\net5.0\CRUD.Series.pdb
+C:\git\DIO\CRUD.Series\obj\Debug\net5.0\CRUD.Series.genruntimeconfig.cache
